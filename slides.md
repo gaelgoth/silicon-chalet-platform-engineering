@@ -261,7 +261,7 @@ hideInToc: true
 
 <img src="/images/platform-as-product.excalidraw.svg" alt="Platform as product" class="m-auto" style="width: 100%;" />
 
-<v-switch>
+<!-- <v-switch>
   <template #1>
     <ArrowDraw color='red' v-drag="[720,80,100,50,150]" />
     <ArrowDraw color='red' v-drag="[720,102,100,700,215]" />
@@ -274,7 +274,7 @@ hideInToc: true
     <ArrowDraw color='red' v-drag="[110,50,100,50,90]" />
     <ArrowDraw color='red' v-drag="[110,104,100,790,270]" />
   </template>
-</v-switch>
+</v-switch> -->
 
 ---
 layout: top-title
@@ -424,7 +424,7 @@ hideInToc: true
 
 <img src="/images/elca-backstage-model.excalidraw.svg" alt="Platform Pillars" class="m-auto" style="width: 100%;" />
 
-<v-switch>
+<!-- <v-switch>
   <template #1>
     <ArrowDraw color='red' v-drag="[690,80,100,50,150]"/>
   </template>
@@ -437,7 +437,7 @@ hideInToc: true
     <ArrowDraw color='red' v-drag="[260,-30,100,270,40]"/>
     <ArrowDraw color='red' v-drag="[185,-30,100,260,148]"/>
   </template>
-</v-switch>
+</v-switch> -->
 
 ---
 layout: top-title
