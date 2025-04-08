@@ -1,6 +1,10 @@
-# Meet up at 42 Lausanne about Platform Engineering
+# Meetup at 42 Lausanne — Platform Engineering
 
-Slidev talk deck for Silicon Chalet meetup event: https://www.meetup.com/silicon-chalet/events/306722286/?eventOrigin=group_upcoming_events
+This is the Slidev deck used for the Silicon Chalet meetup talk on Platform Engineering.
+📅 [Event link](https://www.meetup.com/silicon-chalet/events/306722286/?eventOrigin=group_upcoming_events)
+
+- 🌐 **Web view**: [gaelgoth.github.io/silicon-chalet-platform-engineering](https://gaelgoth.github.io/silicon-chalet-platform-engineering)
+- 📄 **PDF**: [Download slides (PDF)](/slides.pdf)
 
 
 ## Usage
